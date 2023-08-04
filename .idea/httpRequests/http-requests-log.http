@@ -1,0 +1,120 @@
+POST http://localhost:90/auth/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T161802.404.json
+
+###
+
+POST http://localhost:90/auth/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T161800.404.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T161518.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T160510.200.json
+
+###
+
+POST http://localhost:90/oauth/token?grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T160503.401.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T160439.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T153302.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-03T151903.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-01T162757.200.json
+
+###
+
+POST http://localhost:90/oauth/check_token?token=6df76313-27f0-46dd-ba7e-054b24b0a079
+
+<> 2023-08-01T161046.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+<> 2023-08-01T160848.200.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=t1&password=111111
+
+<> 2023-08-01T160837.401.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&code=16K2f2&redirect_uri=http://www.baidu.com&grant_type=authorization_code
+
+<> 2023-08-01T160820.200.json
+
+###
+
+POST http://localhost:90/auth/oauth2/token?client_id=cc&client_secret=cc&code=16K2f2&redirect_uri=http://www.baidu.com&grant_type=authorization_code
+
+<> 2023-08-01T160754.404.json
+
+###
+
+POST http://localhost:90/auth/oauth2/access_token?client_id=cc&client_secret=cc&code=16K2f2
+
+<> 2023-08-01T160307.404.json
+
+###
+
+POST http://localhost:90/auth/oauth2/access_token?client_id=cc&client_secret=cc&code=16K2f2
+
+<> 2023-08-01T160304.404.json
+
+###
+
+GET http://localhost:90/auth/oauth2/access_token?client_id=cc&client_secret=cc&code=16K2f2
+
+<> 2023-08-01T160249.404.json
+
+###
+
+GET http://localhost:90/oauth2/access_token?client_id=cc&client_secret=cc&code=16K2f2
+
+<> 2023-08-01T160236.404.json
+
+###
+
+POST http://localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username={"username":"admin","password":"111111"}
+
+<> 2023-08-01T153146.401.json
+
+###
+
+GET http://localhost:90/oauth/authorize?response_type=code&client_id=cc&redirect_uri=http://www.baidu.com
+
+<> 2023-08-01T150327.200.html
+
+###
+

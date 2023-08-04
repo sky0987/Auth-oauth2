@@ -1,0 +1,15 @@
+{
+  "aud": [
+    "Auth-oauth2"
+  ],
+  "user_name": "admin",
+  "scope": [
+    "all"
+  ],
+  "active": true,
+  "exp": 1690884500,
+  "authorities": [
+    "user:del"
+  ],
+  "client_id": "cc"
+}

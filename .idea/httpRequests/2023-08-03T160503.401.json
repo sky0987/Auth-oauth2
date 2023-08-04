@@ -1,0 +1,7 @@
+{
+  "timestamp": 1691049903185,
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "",
+  "path": "/oauth/token"
+}

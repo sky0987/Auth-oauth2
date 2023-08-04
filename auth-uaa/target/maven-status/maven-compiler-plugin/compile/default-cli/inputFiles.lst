@@ -1,0 +1,15 @@
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/service/impl/UserDetailsService.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/config/WebSecurityConfig.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/config/SpringMvcSupport.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/po/User.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/mapper/UserMapper.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/AuthUaaApplication.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/service/impl/UserServiceImpl.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/controller/LoginController.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/until/Code.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/config/TokenConfig.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/until/Result.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/until/MpConfig.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/service/UserService.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/config/AuthorizationServer.java
+/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/java/com/auth/config/DaoAuthenticationProviderCustom.java

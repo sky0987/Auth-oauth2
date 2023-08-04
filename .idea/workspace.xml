@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a03af25-f650-4fb8-acb1-6c0e3b76b1c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="/usr/bin/git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/api-test/auth-api.http" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa.log" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/config/AuthorizationServer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/config/DaoAuthenticationProviderCustom.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/config/TokenConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/config/WebSecurityConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/controller/LoginController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/mapper/UserMapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/java/com/auth/po/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/auth-uaa/src/main/resource/application.yml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/Library/apache-maven-3.6.1/mvn_repo" />
+        <option name="mavenHome" value="/Library/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/Library/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2TK6PiJQbo9yBCSUWBg7U9FCKEP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "MyBatisLogPluginindexNum": "23",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/zero/IdeaProjects/Auth-oauth2/auth-uaa/src/main/resource/static",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "7cccd25c208a9c226348d8296f1e7d00",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth-uaa/src/main/resource/static" />
+      <recent name="$PROJECT_DIR$/api-test" />
+      <recent name="$PROJECT_DIR$/auth-uaa/src/main/resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth-uaa/src/main/resource/static" />
+      <recent name="$PROJECT_DIR$/auth-uaa/src/main/resource/mapper" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.auth.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.auth-api | ## 2.普通账号密码登录">
+    <configuration name="auth-api | ## 2.普通账号密码登录" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/auth-api.http" index="3" requestIdentifier="## 2.普通账号密码登录" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="auth-api | ## 普通账号密码登录" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/auth-api.http" index="3" requestIdentifier="## 普通账号密码登录" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="auth-api | ####  授权码模式获取token" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/auth-api.http" index="2" requestIdentifier="####  授权码模式获取token" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="auth-api | 校验jwt令牌" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/auth-api.http" index="5" requestIdentifier="校验jwt令牌" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthUaaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="auth-uaa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.auth.AuthUaaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.auth-api | ## 2.普通账号密码登录" />
+        <item itemvalue="Spring Boot.AuthUaaApplication" />
+        <item itemvalue="HTTP Request.auth-api | 校验jwt令牌" />
+        <item itemvalue="HTTP Request.auth-api | ## 普通账号密码登录" />
+        <item itemvalue="HTTP Request.auth-api | ####  授权码模式获取token" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a03af25-f650-4fb8-acb1-6c0e3b76b1c5" name="Changes" comment="" />
+      <created>1690779403218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690779403218</updated>
+      <workItem from="1690779404631" duration="32716000" />
+      <workItem from="1691038892741" duration="766000" />
+      <workItem from="1691039846551" duration="254000" />
+      <workItem from="1691040120841" duration="4997000" />
+      <workItem from="1691046266666" duration="6246000" />
+      <workItem from="1691129048325" duration="1229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

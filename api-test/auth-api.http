@@ -1,0 +1,18 @@
+#### 1.授权码模式 获取授权码
+http://localhost:90/oauth/authorize?response_type=code&client_id=cc&redirect_uri=http://www.baidu.com
+
+#####  授权码模式获取token
+POST  http://localhost:90/oauth/token?client_id=cc&client_secret=cc&code=16K2f2&redirect_uri=http://www.baidu.com&grant_type=authorization_code
+
+#### 2.普通账号密码登录
+POST localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username=admin&password=111111
+
+####  js账号密码登录
+POST localhost:90/oauth/token?client_id=cc&client_secret=cc&grant_type=password&username={"username":"admin","password":"111111"}
+
+
+#### 3.简易模式
+http://localhost:90/oauth/authorize?response_type=token&client_id=cc&redirect_uri=http://www.baidu.com
+
+###校验jwt令牌
+POST localhost:90/oauth/check_token?token=6df76313-27f0-46dd-ba7e-054b24b0a079
